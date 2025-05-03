@@ -9,9 +9,6 @@ I'm Aditya, a developer with a passion for the technical depths of software engi
 - ⚙️ Infrastructure as Code
 - 🧩 Technical Problem Solving
 
-### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-amlesh-jha)
-
 ---
 
 *"The devil is in the details, and that's exactly where I like to be."*
